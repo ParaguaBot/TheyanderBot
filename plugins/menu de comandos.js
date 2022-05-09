@@ -15,13 +15,13 @@ let username = conn.getName(who)
 //let vn = './media/mariana.mp3'
 let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║═ *𝐓𝐡𝐞 Yander - 𝐁𝐨𝐭*
+║═ *El Dino- 𝐁𝐨𝐭*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: Yander Arias* 
-║➤ *Numero del creador:* *wa.me/50671762786 (No Bot)*
-║➤ *Numero del Bot oficial:* *wa.me/18454424766*
+║➤ *Creador del Bot: El Dino* 
+║➤ *Numero del creador:* *wa.me/59598595816 (No Bot)*
+║➤ *Numero del Bot oficial:* *wa.me/595986731337*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
